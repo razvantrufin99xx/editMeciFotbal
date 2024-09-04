@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?><meci>
+<echipagazda></echipagazda>
+ <scorfinal>
+ <golgazda></golgazda>
+ <goloaspete></goloaspete>
+ </scorfinal>
+ <scorpauza>
+ <golgazda></golgazda>
+ <goloaspete></goloaspete>
+ </scorpauza>
+ <echipaoaspete></echipaoaspete>
+ <scorprelungiri>
+ <golgazda></golgazda>
+ <goloaspete></goloaspete>
+ </scorprelungiri>
+ <scorpenaltiuri>
+ <golgazda></golgazda>
+ <goloaspete></goloaspete>
+ </scorpenaltiuri>
+ <stadion></stadion>
+<oras></oras>
+<competitia></competitia>
+ <orasidatastart></orasidatastart>
+ <nrspectatori></nrspectatori>
+ <tara></tara>
+ <transmisdepostul></transmisdepostul>
+ <orasidatafinal></orasidatafinal>
+</meci>
